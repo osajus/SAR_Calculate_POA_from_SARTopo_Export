@@ -5,3 +5,5 @@ grid_gen.py
 line_buffer.py
 main_copy.py
 output/*
+.vscode/*
+lib/*
