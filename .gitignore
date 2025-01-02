@@ -1,0 +1,7 @@
+  scratch.py
+*.json
+*.geojson
+grid_gen.py
+line_buffer.py
+main_copy.py
+output/*
